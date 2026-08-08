@@ -1,0 +1,14 @@
+/home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/deps/thiserror-1178a1a974cb3422.d: /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/build/thiserror-9106b1af0c2c642b/out/private.rs
+
+/home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/deps/libthiserror-1178a1a974cb3422.rlib: /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/build/thiserror-9106b1af0c2c642b/out/private.rs
+
+/home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/deps/libthiserror-1178a1a974cb3422.rmeta: /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/build/thiserror-9106b1af0c2c642b/out/private.rs
+
+/home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs:
+/home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs:
+/home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs:
+/home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs:
+/home/gamerh2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs:
+/home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/build/thiserror-9106b1af0c2c642b/out/private.rs:
+
+# env-dep:OUT_DIR=/home/gamerh2/zed_projects/ultrawide_side_saver/target/debug/build/thiserror-9106b1af0c2c642b/out

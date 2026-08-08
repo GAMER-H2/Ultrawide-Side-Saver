@@ -1,0 +1,33 @@
+[package]
+name = "ultrawide-side-saver"
+version = "0.1.0"
+edition = "2021"
+description = "Animated layer-shell side bars that exercise the unused pixels of an ultrawide OLED during 16:9 content"
+license = "MIT"
+
+[dependencies]
+anyhow = "1"
+calloop = "0.14"
+calloop-wayland-source = "0.4"
+glow = "0.18"
+khronos-egl = { version = "6", features = ["static"] }
+serde = { version = "1", features = ["derive"] }
+# "system" routes through libwayland-client, which is required for EGL interop:
+# Mesa needs the real wl_display pointer and wl_egl_window needs real proxies.
+smithay-client-toolkit = { version = "0.21", default-features = false, features = ["system"] }
+toml = "0.9"
+wayland-client = { version = "0.31", features = ["log"] }
+wayland-egl = "0.32"
+zbus = "5"
+
+[dependencies.ksni]
+version = "0.3"
+default-features = false
+features = ["blocking", "async-io"]
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
+panic = "abort"
