@@ -1,4 +1,4 @@
-# ultrawide-side-saver
+# Ultrawide Side Saver
 
 Animated side bars for the unused edges of an ultrawide OLED.
 
